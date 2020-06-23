@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/city.jpg': 'center',
-							'images/country.jpg': 'center',
-							'images/cali.jpg': 'center'
+							'images/Sandtrap.jpeg': 'center',
+							'images/View.jpeg': 'center',
+							'images/Swing.jpeg': 'center'
 						},
 
 					// Delay.
